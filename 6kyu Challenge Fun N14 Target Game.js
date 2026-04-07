@@ -1,16 +1,12 @@
 function targetGame(vals) {
-  if (!vals || vals.length === 0) return 0;
-
-  let prevMax = 0;
+  let prMax = 0;
   let currMax = 0;
-
-  for (let val of vals) {
-    let currentVal = Math.max(0, val);
-    let nextMax = Math.max(currMax, prevMax + currentVal);
-    prevMax = currMax;
+  for (const val of vals) {
+    const currValue = Math.max(0, val);
+    const nextMax = Math.max(currMax, prMax + currValue);
+    prMax = currMax;
     currMax = nextMax;
   }
-
   return currMax;
 }
 
