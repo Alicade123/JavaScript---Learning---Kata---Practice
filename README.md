@@ -47,7 +47,12 @@ Example:
 - [ ] 1kyu
       └── ...
 
-## 🏹Code
+## 🏹Code running Prerequisites
+
+- **Node.js:** v16.0.0 or higher
+- **NPM:** v8.0.0 or higher
+- **Dependencies:** Run \`npm install\` to install necessary packages.
+`
 
 ## 🛠️ How to Use
 
