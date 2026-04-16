@@ -53,7 +53,7 @@ Example:
 
 1. Clone the repo:
    ```bash
-   https://github.com/Alicade123/JavaScript---Learning---Kata---Practice.git
+   git clone "https://github.com/Alicade123/JavaScript---Learning---Kata---Practice.git"
    ```
 1. Navigate into the folder:
    ```bash
