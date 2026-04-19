@@ -30,17 +30,17 @@ Each kata solution is organized by:
 
 Example:
 
-- [ ] 8kyu
+- [x] 8kyu
       └── Color Ghost.js
-- [ ] 7kyu
+- [x] 7kyu
       └── Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe.js
-- [ ] 6kyu
+- [x] 6kyu
       └── Simple Fun #132- Number Of Carries.js
-- [ ] 5kyu
+- [x] 5kyu
       └── Evaluate a postfix expression V1.js
-- [ ] 4kyu
+- [x] 4kyu
       └── snail.js
-- [ ] 3kyu
+- [x] 3kyu
       └── Breaking the Vigenère Cipher V0 Dencrypt.js
 - [ ] 2kyu
       └── ...
